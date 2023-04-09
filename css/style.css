@@ -1,0 +1,33 @@
+#content-container{
+    background: #F4F4F4;
+}
+
+h1{font-size: 2em;}
+
+#content-top{
+    background-color: #6943FF;
+}
+#metric-input{
+    width:120px;
+    height: 83px;
+    background-color: #6943FF;
+    color:white;
+    font-weight: bold;
+    font-size: 58px;
+}
+
+#metric-input:focus-visible{
+    border-color:#6943FF;
+}
+#convert-button{
+    color:#3D3D3D;
+    width:120px;
+    background: white;
+}
+h2.metric-header{
+    color: #5A537B;
+    font-size: 15pt;
+}
+p.metric-text{
+    color:#353535;
+}
