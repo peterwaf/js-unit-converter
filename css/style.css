@@ -17,6 +17,11 @@ h1{font-size: 2em;}
 }
 
 #metric-input:focus-visible{
+    outline: none;
+    border: none;
+}
+
+#metric-input:focus-visible{
     border-color:#6943FF;
 }
 #convert-button{
